@@ -1,4 +1,4 @@
-# ignore downloaded and generated IBM and MaxMind data
+# ignore downloaded and generated IBM and MaxMind data 
 GeoLite2-City-CSV_*/
 whois.ibm.com_*/
 geocode-*/
